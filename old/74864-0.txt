@@ -1,4 +1,6 @@
+﻿
 *** START OF THE PROJECT GUTENBERG EBOOK 74864 ***
+
 <b>Transcriber’s notes</b>:
 
 The text of this book has been preserved as closely as practicable
@@ -17247,7 +17249,7 @@ single observation*.
 7. Divide now by the square root of the number of observations, and we
 get the *mean error of the mean result*.
 
-8. Lastly, multiply by the natural constant 0·6745 (or approximately
+8. Lastly, multiply by the natural constant O·6745 (or approximately
 by 0·674, or even by 2/3), and we arrive at the *probable error of the
 mean result*.
 
@@ -34212,5 +34214,7 @@ SPELLING CORRECTIONS
   suficiently → sufficiently
   telecope → telescope
   verifiy → verify
+
+
 
 *** END OF THE PROJECT GUTENBERG EBOOK 74864 ***
